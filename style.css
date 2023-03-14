@@ -1,0 +1,35 @@
+.square_1 {
+    background-color: rgb(192, 55, 45);
+    width: 50px;
+    height: 50px;
+    margin-top: 10%;
+
+}
+* {
+    background-color: rgb(49, 47, 47);
+}
+.square_2 {
+    background-color: rgb(106, 35, 153);
+    width: 50px;
+    height: 50px;
+    margin-top: 1%;
+}
+.square_3 {
+    background-color: rgb(35, 145, 153);
+    width: 50px;
+    height: 50px;
+    margin-top: 1%;
+
+}
+.square_4 {
+    background-color: rgb(56, 160, 103);
+    width: 50px;
+    height: 50px;
+    margin-top: 1%;
+}
+.square_5 {
+    background-color: rgb(129, 121, 42);
+    width: 50px;
+    height: 50px;
+    margin-top: 1%;
+}
